@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootSample-microservice-currency-conversio
+ n
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: M1044027
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootSample-microservice-currency-conversion
+Created-By: Maven Integration for Eclipse
+
